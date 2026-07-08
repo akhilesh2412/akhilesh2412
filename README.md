@@ -197,7 +197,11 @@
   <table>
     <tr>
       <td width="50%">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=akhilesh2412&show_icons=true&count_private=true&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9&bg_color=0d1117&ring_color=00F7FF" alt="GitHub Stats" />
+       <img
+  width="100%"
+  src="https://github-readme-stats.vercel.app/api?username=akhilesh2412&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+  alt="GitHub Stats"
+/>
       </td>
       <td width="50%">
         <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=akhilesh2412&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" alt="GitHub Streak" />
@@ -210,7 +214,11 @@
   <table>
     <tr>
       <td width="40%">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilesh2412&layout=compact&hide_border=true&title_color=00F7FF&text_color=c9d1d9&bg_color=0d1117&langs_count=10" alt="Top Languages" />
+<img
+  width="100%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilesh2412&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide_progress=false"
+  alt="Top Languages"
+/>
       </td>
       <td width="60%">
         <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=akhilesh2412&bg_color=0d1117&color=00F7FF&line=00F7FF&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
@@ -236,8 +244,11 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=akhilesh2412&theme=onedark&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=7" width="100%" alt="GitHub Trophies" />
-  </a>
+<img
+  width="100%"
+  src="https://github-profile-trophy.vercel.app/?username=akhilesh2412&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"
+  alt="GitHub Trophies"
+/>  </a>
 </div>
 
 <br/>
@@ -391,7 +402,11 @@
 
 <!-- Footer Wave -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&text=Thanks%20for%20Visiting!&fontAlign=50&fontAlignY=30&color=gradient&animation=twinkling&fontColor=ffffff&fontSize=35&desc=Let's%20build%20something%20amazing%20together!&descAlign=50&descAlignY=55&descSize=20" width="100%" />
+  <img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=220&color=gradient&customColorList=6,11,20,24,30&text=Thanks%20For%20Visiting!%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Happy%20Coding%20•%20Keep%20Learning%20•%20Keep%20Building&descAlignY=60&descSize=22"
+  alt="Footer Banner"
+/>
 </div>
 
 <div align="center">
@@ -402,6 +417,6 @@
 
 <div align="center">
   <p style="font-size: 14px; color: #8b949e;">
-    © 2024 Akhilesh Verma | Made with ❤️ and lots of ☕
+    © 2026 Akhilesh Verma | Made with ❤️ and lots of ☕
   </p>
 </div>
