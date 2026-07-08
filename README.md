@@ -28,60 +28,104 @@
 
 <br/>
 
-<!-- About Me Section -->
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+<!-- ========================= ABOUT ME ========================= -->
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
   About Me
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
-</h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+</h2>
 
 <table>
 <tr>
 <td width="58%" valign="top">
 
-### 👨‍💻 Hello, I'm Akhilesh Verma
+## 👨‍💻 Hey, I'm Akhilesh Verma
 
 💙 Passionate **Full Stack Developer** from India.
 
-🚀 Building modern **Android Applications** using **Kotlin, XML & Jetpack Compose**
+🚀 I enjoy building modern Android applications, responsive web experiences, and cloud-powered solutions with a strong focus on performance and clean UI.
 
-🌐 Creating responsive **React.js** websites and web applications
+### 🚀 Currently
 
-☁️ Experienced with **Firebase**, **Cloudinary**, REST APIs & Git
+- 🔭 Building **Android Apps** using **Kotlin**, **Jetpack Compose** & **XML**
+- 🌱 Learning **Node.js**, **TypeScript** & **System Design**
+- 🌐 Developing responsive web apps with **React.js**
+- ☁️ Working with **Firebase**, **Cloudinary** & REST APIs
+- 🎨 Creating modern and user-friendly UI/UX
+- 💡 Exploring new technologies every day
 
-🎨 Love creating **beautiful UI/UX** with smooth user experience
+---
 
-📚 Currently learning
+### ⚡ Quick Facts
 
-- Node.js
-- TypeScript
-- Backend Development
-- System Design
+🏆 Full Stack Developer
 
-🎯 **2026 Goals**
+📱 Android Enthusiast
 
-- 🚀 Publish more Android Apps
-- ⭐ Contribute to Open Source
-- 💼 Become a Professional Full Stack Developer
-- 📱 Build impactful products
+💻 React Developer
 
-⚡ **Fun Fact**
+🔥 Firebase Lover
 
-> I enjoy turning coffee ☕ into clean code 💻.
+🎨 UI/UX Designer
+
+🚀 Open Source Learner
+
+☕ Coffee + Music = Productivity
+
+🎯 Goal: Build products that people love to use.
 
 </td>
 
 <td width="42%" align="center">
 
-<img src="<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="330px"/>
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="340"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilesh2412&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilesh2412&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=akhilesh2412&style=for-the-badge&color=0e75b6"/>
 
 </td>
 </tr>
 </table>
+
+<br>
+
+<div align="center">
+
+### 🚀 Tech Focus
+
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,cpp,react,js,html,css,nodejs,firebase,git,github,vscode,figma,postman,mysql&perline=8"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 🌟 Developer Mindset
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Android+Applications;Creating+Modern+React+Websites;Learning+Something+New+Every+Day;Open+Source+Contributor;Clean+Code+%7C+Beautiful+UI+%7C+Better+UX"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+| 🚀 Development | 💻 Frontend | ☁️ Backend | 🎯 Goal |
+|:-------------:|:----------:|:----------:|:-------:|
+| Android Apps | React.js | Firebase | Open Source |
+| Kotlin | JavaScript | Node.js | Full Stack |
+| Jetpack Compose | HTML/CSS | REST APIs | Innovative Products |
+
+</div>
+
+<!-- ========================= END ABOUT ========================= -->
 <!-- Tech Stack Section -->
 <h1 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35px" />
