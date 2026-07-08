@@ -22,25 +22,25 @@
 
 <br/>
 
-<!-- Animated Wave Divider -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 <br/>
 
-<!-- About Me Section with Animated Avatar -->
+<!-- About Me Section -->
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" style="vertical-align: middle;" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" /> 
   About Me
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" style="vertical-align: middle;" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
 </h1>
 
-<table align="center">
-  <tr>
-    <td width="60%">
-      <div style="font-size: 16px; line-height: 1.8;">
-        
+<div align="center">
+  <table>
+    <tr>
+      <td width="60%">
+        <div style="font-size: 16px; line-height: 1.8; text-align: left;">
+          
   🚀 **Full Stack App Developer** crafting exceptional digital experiences
   
   📱 Building robust **Android** apps with **Kotlin**, **XML** & **Jetpack Compose**
@@ -58,16 +58,17 @@
   ⚡ Fun fact: I debug with 🎧 music and ☕ coffee
   
   🎯 **2024 Goals:** Contribute to 50+ open source projects
-  
-      </div>
-    </td>
-    <td width="40%">
-      <div align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" style="border-radius: 20px;" />
-      </div>
-    </td>
-  </tr>
-</table>
+          
+        </div>
+      </td>
+      <td width="40%">
+        <div align="center">
+          <img src="https://camo.githubusercontent.com/4d9f5ecceb711aec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="300" alt="Coding Animation" />
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br/>
 
@@ -77,11 +78,11 @@
 
 <br/>
 
-<!-- Tech Stack Section with Animated Icons -->
+<!-- Tech Stack Section -->
 <h1 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35px" style="vertical-align: middle;" />
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35px" />
   Technology Stack
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35px" style="vertical-align: middle;" />
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35px" />
 </h1>
 
 <div align="center">
@@ -139,19 +140,19 @@
 
 <!-- GitHub Stats Section -->
 <h1 align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git" style="vertical-align: middle;" />
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" />
   GitHub Analytics
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git" style="vertical-align: middle;" />
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" />
 </h1>
 
 <div align="center">
   <table>
     <tr>
       <td width="50%">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=akhilesh2412&show_icons=true&count_private=true&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9&bg_color=0d1117&ring_color=00F7FF&show_owner=true" alt="GitHub Stats" />
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=akhilesh2412&show_icons=true&count_private=true&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9&bg_color=0d1117&ring_color=00F7FF" alt="GitHub Stats" />
       </td>
       <td width="50%">
-        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=akhilesh2412&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&sideNums=00F7FF&currStreakNum=00F7FF&sideLabels=00F7FF&dates=00F7FF" alt="GitHub Streak" />
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=akhilesh2412&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
@@ -178,15 +179,17 @@
 
 <br/>
 
-<!-- GitHub Trophies - FIXED -->
+<!-- GitHub Trophies - COMPLETELY FIXED -->
 <h1 align="center">
-  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="35px" style="vertical-align: middle;" />
+  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="35px" />
   GitHub Achievements
-  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="35px" style="vertical-align: middle;" />
+  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="35px" />
 </h1>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akhilesh2412&theme=algolia&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=7&row=1" width="100%" alt="GitHub Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=akhilesh2412&theme=onedark&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=7" width="100%" alt="GitHub Trophies" />
+  </a>
 </div>
 
 <br/>
@@ -197,18 +200,18 @@
 
 <br/>
 
-<!-- Contribution Snake - FIXED -->
+<!-- Contribution Snake - COMPLETELY FIXED -->
 <h1 align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZOvlUQtF/giphy.gif" width="35px" style="vertical-align: middle;" />
+  <img src="https://media.giphy.com/media/LMcB8XospGZOvlUQtF/giphy.gif" width="35px" />
   Contribution Snake
-  <img src="https://media.giphy.com/media/LMcB8XospGZOvlUQtF/giphy.gif" width="35px" style="vertical-align: middle;" />
+  <img src="https://media.giphy.com/media/LMcB8XospGZOvlUQtF/giphy.gif" width="35px" />
 </h1>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </div>
 
@@ -222,9 +225,9 @@
 
 <!-- Featured Projects Section -->
 <h1 align="center">
-  <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="35px" style="vertical-align: middle;" />
+  <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="35px" />
   Featured Projects
-  <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="35px" style="vertical-align: middle;" />
+  <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="35px" />
 </h1>
 
 <div align="center">
@@ -233,49 +236,29 @@
       <td width="50%">
         <h3 align="center">📱 Android Apps</h3>
         <div align="center">
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/🎬%20Reels%20UI%20with%20ExoPlayer-FF4081?style=for-the-badge&logo=android&logoColor=white" alt="Reels UI" />
-          </a>
+          <img src="https://img.shields.io/badge/🎬%20Reels%20UI%20with%20ExoPlayer-FF4081?style=for-the-badge&logo=android&logoColor=white" alt="Reels UI" />
           <br/><br/>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/👶%20Parenting%20Tracker%20App-6200EE?style=for-the-badge&logo=android&logoColor=white" alt="Parenting Tracker" />
-          </a>
+          <img src="https://img.shields.io/badge/👶%20Parenting%20Tracker%20App-6200EE?style=for-the-badge&logo=android&logoColor=white" alt="Parenting Tracker" />
           <br/><br/>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/💬%20Instagram%20Like%20Comments-00E5FF?style=for-the-badge&logo=android&logoColor=white" alt="Instagram Comments" />
-          </a>
+          <img src="https://img.shields.io/badge/💬%20Instagram%20Like%20Comments-00E5FF?style=for-the-badge&logo=android&logoColor=white" alt="Instagram Comments" />
           <br/><br/>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/☁️%20Firebase%20%26%20Cloudinary%20App-FF6D00?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase App" />
-          </a>
+          <img src="https://img.shields.io/badge/☁️%20Firebase%20%26%20Cloudinary%20App-FF6D00?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase App" />
           <br/><br/>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/💭%20Chat%20Application-00C853?style=for-the-badge&logo=android&logoColor=white" alt="Chat App" />
-          </a>
+          <img src="https://img.shields.io/badge/💭%20Chat%20Application-00C853?style=for-the-badge&logo=android&logoColor=white" alt="Chat App" />
         </div>
       </td>
       <td width="50%">
         <h3 align="center">🌐 Web Projects</h3>
         <div align="center">
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/🎨%20Portfolio%20Site-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="Portfolio" />
-          </a>
+          <img src="https://img.shields.io/badge/🎨%20Portfolio%20Site-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="Portfolio" />
           <br/><br/>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/🌤️%20ReactJS%20Weather%20App-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Weather App" />
-          </a>
+          <img src="https://img.shields.io/badge/🌤️%20ReactJS%20Weather%20App-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Weather App" />
           <br/><br/>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/🔐%20Stylish%20Auth%20Pages-9C27B0?style=for-the-badge&logo=css3&logoColor=white" alt="Auth Pages" />
-          </a>
+          <img src="https://img.shields.io/badge/🔐%20Stylish%20Auth%20Pages-9C27B0?style=for-the-badge&logo=css3&logoColor=white" alt="Auth Pages" />
           <br/><br/>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/📱%20Responsive%20UI%20Components-009688?style=for-the-badge&logo=javascript&logoColor=white" alt="UI Components" />
-          </a>
+          <img src="https://img.shields.io/badge/📱%20Responsive%20UI%20Components-009688?style=for-the-badge&logo=javascript&logoColor=white" alt="UI Components" />
           <br/><br/>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/🛒%20E--Commerce%20Dashboard-FF4081?style=for-the-badge&logo=react&logoColor=white" alt="E-Commerce" />
-          </a>
+          <img src="https://img.shields.io/badge/🛒%20E--Commerce%20Dashboard-FF4081?style=for-the-badge&logo=react&logoColor=white" alt="E-Commerce" />
         </div>
       </td>
     </tr>
@@ -290,30 +273,11 @@
 
 <br/>
 
-<!-- Wakatime Stats (Optional) -->
-<h1 align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYEYRLmK5Q/giphy.gif" width="35px" style="vertical-align: middle;" />
-  Coding Activity
-  <img src="https://media.giphy.com/media/jpVnC65DmYEYRLmK5Q/giphy.gif" width="35px" style="vertical-align: middle;" />
-</h1>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=akhilesh2412&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=c9d1d9" width="60%" alt="Wakatime Stats" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<br/>
-
 <!-- Connect with Me Section -->
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="70px" style="vertical-align: middle;" />
+  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="70px" />
   Let's Connect
-  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="70px" style="vertical-align: middle;" />
+  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="70px" />
 </h1>
 
 <div align="center">
@@ -346,7 +310,7 @@
 
 <br/>
 
-<!-- Jokes Card - FIXED -->
+<!-- Jokes Card - COMPLETELY FIXED -->
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" width="60%" alt="Jokes Card" />
 </div>
@@ -366,15 +330,11 @@
   <a href="https://www.buymeacoffee.com/your-coffee" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217" />
   </a>
-  <br/><br/>
-  <a href="https://ko-fi.com/your-kofi" target="_blank">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" alt="Buy Me a Coffee at ko-fi.com" height="60" />
-  </a>
 </div>
 
 <br/>
 
-<!-- Profile Hit Counter - FIXED -->
+<!-- Visitor Counter - COMPLETELY FIXED -->
 <div align="center">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fakhilesh2412&count_bg=%2300F7FF&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false" alt="Visitor Count" />
 </div>
@@ -396,9 +356,4 @@
   <p style="font-size: 14px; color: #8b949e;">
     © 2024 Akhilesh Verma | Made with ❤️ and lots of ☕
   </p>
-</div>
-
-<!-- Hidden CSS Animations for Interactive Elements -->
-<div style="display: none;">
-  <!-- This ensures shields.io badges have hover effects -->
 </div>
