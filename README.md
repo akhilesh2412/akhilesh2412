@@ -73,7 +73,7 @@
 
 <td width="42%" align="center">
 
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="330px"/>
+<img src="<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="330px"/>
 
 <br><br>
 
