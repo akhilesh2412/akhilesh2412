@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/akhilesh2412">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&height=50&lines=Android+Developer+•+Kotlin+•+Jetpack+Compose;Clean+code+•+better+UX+•+open+source" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&height=50&lines=Android+Developer+%7C+Kotlin+%7C+Jetpack+Compose;Clean+Code+%7C+Better+UX+%7C+Open+Source" alt="Typing SVG" />
   </a>
 </div>
 
@@ -104,8 +104,6 @@ Building modern mobile experiences with Kotlin, Jetpack Compose & Firebase
 </p>
 
 </div>
-<br/>
----
 <br/>
 
 ## 🐍 Contribution
