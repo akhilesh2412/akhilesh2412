@@ -128,16 +128,16 @@ Building modern mobile experiences with Kotlin, Jetpack Compose & Firebase
   <a href="https://in.linkedin.com/in/akhilesh-verma-a6bb66271" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://t.me/akvdev_241203" target="_blank">
+  <a href="https://t.me/akvdev_2412" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://akhileshkverma.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:your.email@gmail.com" target="_blank">
+  <a href="mailto:akhileshwebz@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://instagram.com/your-instagram" target="_blank">
+  <a href="https://instagram.com/akhileshkv_2412" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
@@ -158,5 +158,5 @@ Building modern mobile experiences with Kotlin, Jetpack Compose & Firebase
 </div>
 
 <div align="center">
-  <p style="color: #6b7280;">© 2026 Akhilesh Verma · Made with ❤️ and ☕</p>
+  <p style="color: #6b7280;">© 2026 Akhilesh Verma · Made with ♡ </p>
 </div>
