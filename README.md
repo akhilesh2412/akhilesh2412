@@ -1,22 +1,22 @@
-<!-- README.md for @akhilesh2412 -->
+<!-- README.md for @akhilesh2412 – premium minimal theme -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Akhilesh%20Verma&section=header&reversal=false&textBg=false&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Tech%20Enthusiast&descAlign=50&descAlignY=65&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Akhilesh%20Verma&section=header&reversal=false&textBg=false&fontSize=54&fontColor=ffffff&animation=fadeIn&desc=Android%20Developer%20%7C%20Kotlin%20·%20Compose%20·%20Firebase&descAlign=50&descAlignY=68&descSize=16" width="100%" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=700&height=100&lines=Full+Stack+App+Developer;Android+%7C+Kotlin+%7C+XML;Web+Developer+%7C+React.js+%7C+JavaScript;Firebase+%7C+Cloudinary+Expert;UI%2FUX+Design+Enthusiast;Building+Digital+Innovations+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3800&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=680&height=60&lines=Android+Developer+•+Kotlin+•+Jetpack+Compose;Building+scalable%2C+modern+applications;Clean+code+•+better+UX+•+open+source" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=akhilesh2412&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=akhilesh2412&label=Profile%20Views&color=3b82f6&style=flat-square" alt="Profile Views" />
   <a href="https://github.com/akhilesh2412?tab=followers">
-    <img src="https://img.shields.io/github/followers/akhilesh2412?label=Followers&style=for-the-badge&color=00F7FF" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/akhilesh2412?label=Followers&style=flat-square&color=6b7280" alt="Followers" />
   </a>
   <a href="https://github.com/akhilesh2412?tab=repositories">
-    <img src="https://img.shields.io/github/stars/akhilesh2412?label=Stars&style=for-the-badge&color=FFD700" alt="Stars" />
+    <img src="https://img.shields.io/github/stars/akhilesh2412?label=Stars&style=flat-square&color=fbbf24" alt="Stars" />
   </a>
 </div>
 
@@ -31,63 +31,61 @@
 <!-- ========================= ABOUT ME ========================= -->
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   About Me
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="55%" valign="top">
 
 ## 👨‍💻 Hey, I'm Akhilesh Verma
 
-💙 Passionate **Full Stack Developer** from India.
+💙 **Android Developer** from India – focused on crafting clean, performant mobile experiences.
 
-🚀 I enjoy building modern Android applications, responsive web experiences, and cloud-powered solutions with a strong focus on performance and clean UI.
+🚀 I build modern Android apps with **Kotlin** & **Jetpack Compose**, backed by **Firebase** and cloud services. I care about architecture, UI polish, and shipping reliable products.
 
 ### 🚀 Currently
 
-- 🔭 Building **Android Apps** using **Kotlin**, **Jetpack Compose** & **XML**
-- 🌱 Learning **Node.js**, **TypeScript** & **System Design**
-- 🌐 Developing responsive web apps with **React.js**
+- 🔭 Building **Android Apps** with **Kotlin**, **Jetpack Compose** & **XML**
+- 🌱 Deepening knowledge in **Node.js**, **TypeScript** & **System Design**
+- 🌐 Developing responsive web interfaces with **React.js**
 - ☁️ Working with **Firebase**, **Cloudinary** & REST APIs
-- 🎨 Creating modern and user-friendly UI/UX
-- 💡 Exploring new technologies every day
+- 🎨 Designing clean, user‑friendly UI/UX
+- 💡 Exploring new tools and best practices daily
 
 ---
 
 ### ⚡ Quick Facts
 
-🏆 Full Stack Developer
+🏆 Android Specialist
 
-📱 Android Enthusiast
+📱 Kotlin · Compose · Firebase
 
-💻 React Developer
+💻 React & Web Development
 
-🔥 Firebase Lover
-
-🎨 UI/UX Designer
+🎨 UI/UX focused
 
 🚀 Open Source Learner
 
 ☕ Coffee + Music = Productivity
 
-🎯 Goal: Build products that people love to use.
+🎯 Goal: Build products people love to use.
 
 </td>
 
-<td width="42%" align="center">
+<td width="45%" align="center">
 
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="340"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akhilesh2412&theme=tokyonight" width="100%"/>
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=akhilesh2412&style=for-the-badge&color=0e75b6"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akhilesh2412&theme=tokyonight" width="95%"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=akhilesh2412&style=flat-square&color=3b82f6"/>
 
 </td>
 </tr>
@@ -99,7 +97,7 @@
 
 ### 🚀 Tech Focus
 
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,cpp,react,js,html,css,nodejs,firebase,git,github,vscode,figma,postman,mysql&perline=8"/>
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,react,js,html,css,nodejs,firebase,git,github,vscode,figma,postman,mysql&perline=8"/>
 
 </div>
 
@@ -109,7 +107,7 @@
 
 ### 🌟 Developer Mindset
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Android+Applications;Creating+Modern+React+Websites;Learning+Something+New+Every+Day;Open+Source+Contributor;Clean+Code+%7C+Beautiful+UI+%7C+Better+UX"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3500&pause=900&color=6b7280&center=true&vCenter=true&width=900&lines=Building+Scalable+Android+Applications;Creating+Modern+React+Websites;Learning+Something+New+Every+Day;Open+Source+Contributor;Clean+Code+%7C+Beautiful+UI+%7C+Better+UX"/>
 
 </div>
 
@@ -128,9 +126,9 @@
 <!-- ========================= END ABOUT ========================= -->
 <!-- Tech Stack Section -->
 <h1 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35px" />
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" />
   Technology Stack
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35px" />
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" />
 </h1>
 
 <div align="center">
@@ -188,9 +186,9 @@
 
 <!-- GitHub Stats Section -->
 <h1 align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" />
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28px" />
   GitHub Analytics
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" />
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28px" />
 </h1>
 
 <div align="center">
@@ -204,7 +202,7 @@
 />
       </td>
       <td width="50%">
-        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=akhilesh2412&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" alt="GitHub Streak" />
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=akhilesh2412&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
@@ -221,7 +219,7 @@
 />
       </td>
       <td width="60%">
-        <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=akhilesh2412&bg_color=0d1117&color=00F7FF&line=00F7FF&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+        <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=akhilesh2412&bg_color=0d1117&color=3B82F6&line=3B82F6&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
       </td>
     </tr>
   </table>
@@ -235,11 +233,11 @@
 
 <br/>
 
-<!-- GitHub Trophies - COMPLETELY FIXED -->
+<!-- GitHub Trophies -->
 <h1 align="center">
-  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="35px" />
+  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="30px" />
   GitHub Achievements
-  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="35px" />
+  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="30px" />
 </h1>
 
 <div align="center">
@@ -259,11 +257,11 @@
 
 <br/>
 
-<!-- Contribution Snake - COMPLETELY FIXED -->
+<!-- Contribution Snake -->
 <h1 align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZOvlUQtF/giphy.gif" width="35px" />
+  <img src="https://media.giphy.com/media/LMcB8XospGZOvlUQtF/giphy.gif" width="30px" />
   Contribution Snake
-  <img src="https://media.giphy.com/media/LMcB8XospGZOvlUQtF/giphy.gif" width="35px" />
+  <img src="https://media.giphy.com/media/LMcB8XospGZOvlUQtF/giphy.gif" width="30px" />
 </h1>
 
 <div align="center">
@@ -284,9 +282,9 @@
 
 <!-- Featured Projects Section -->
 <h1 align="center">
-  <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="35px" />
+  <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="30px" />
   Featured Projects
-  <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="35px" />
+  <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="30px" />
 </h1>
 
 <div align="center">
@@ -334,14 +332,14 @@
 
 <!-- Connect with Me Section -->
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="70px" />
+  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="60px" />
   Let's Connect
-  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="70px" />
+  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="60px" />
 </h1>
 
 <div align="center">
   <a href="https://github.com/akhilesh2412" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:your.email@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
@@ -364,14 +362,14 @@
 
 <!-- Random Dev Quote -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="70%" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="65%" alt="Random Dev Quote" />
 </div>
 
 <br/>
 
-<!-- Jokes Card - COMPLETELY FIXED -->
+<!-- Jokes Card -->
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" width="60%" alt="Jokes Card" />
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" width="55%" alt="Jokes Card" />
 </div>
 
 <br/>
@@ -387,15 +385,15 @@
   <h3>💖 Support My Work</h3>
   <p>If you find my projects helpful, consider supporting me!</p>
   <a href="https://www.buymeacoffee.com/your-coffee" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="55" width="200" />
   </a>
 </div>
 
 <br/>
 
-<!-- Visitor Counter - COMPLETELY FIXED -->
+<!-- Visitor Counter -->
 <div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fakhilesh2412&count_bg=%2300F7FF&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false" alt="Visitor Count" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fakhilesh2412&count_bg=%233B82F6&title_bg=%231F2937&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=true" alt="Visitor Count" />
 </div>
 
 <br/>
@@ -404,7 +402,7 @@
 <div align="center">
   <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=220&color=gradient&customColorList=6,11,20,24,30&text=Thanks%20For%20Visiting!%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Happy%20Coding%20•%20Keep%20Learning%20•%20Keep%20Building&descAlignY=60&descSize=22"
+  src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=gradient&customColorList=6,11,20,24,30&text=Thanks%20For%20Visiting!%20👋&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Happy%20Coding%20•%20Keep%20Learning%20•%20Keep%20Building&descAlignY=58&descSize=18"
   alt="Footer Banner"
 />
 </div>
@@ -416,7 +414,7 @@
 <br/>
 
 <div align="center">
-  <p style="font-size: 14px; color: #8b949e;">
+  <p style="font-size: 13px; color: #6b7280;">
     © 2026 Akhilesh Verma | Made with ❤️ and lots of ☕
   </p>
 </div>
