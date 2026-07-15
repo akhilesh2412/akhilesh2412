@@ -108,44 +108,12 @@ Building modern mobile experiences with Kotlin, Jetpack Compose & Firebase
 <br/>
 
 ---
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/akhilesh2412">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=akhilesh2412&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/akhilesh2412">
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=akhilesh2412&theme=tokyonight&hide_border=true&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/akhilesh2412">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilesh2412&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-  </a>
-  <a href="https://github.com/akhilesh2412">
-    <img width="58%" src="https://github-readme-activity-graph.vercel.app/graph?username=akhilesh2412&bg_color=0d1117&color=3B82F6&line=3B82F6&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
-  </a>
-</div>
-
 <br/>
 
 ---
 
 <br/>
 
-## 🏆 Achievements
-
-<div align="center">
-  <a href="https://github.com/akhilesh2412">
-    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=akhilesh2412&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=12&margin-h=12" alt="GitHub Trophies" />
-  </a>
-</div>
-
-<br/>
 
 ---
 
@@ -155,9 +123,9 @@ Building modern mobile experiences with Kotlin, Jetpack Compose & Firebase
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akhilesh2412/akhilesh2412/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akhilesh2412/akhilesh2412/output/github-contribution-grid-snake.svg">
-    <img alt="snake" src="https://raw.githubusercontent.com/akhilesh2412/akhilesh2412/output/github-contribution-grid-snake.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </div>
 
