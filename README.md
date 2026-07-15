@@ -150,7 +150,11 @@ Building modern mobile experiences with Kotlin, Jetpack Compose & Firebase
 <br/>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=gradient&customColorList=6,11,20,24,30&text=Thanks%20For%20Visiting!%20👋&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Happy%20Coding%20•%20Keep%20Building&descAlignY=58&descSize=16" alt="Footer" />
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=gradient&customColorList=6,11,20,24,30&text=Thanks%20For%20Visiting!%20%F0%9F%91%8B&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=38&desc=Happy%20Coding%20%7C%20Keep%20Building&descAlign=50&descAlignY=58&descSize=16"
+    alt="Footer"
+  />
 </div>
 
 <div align="center">
