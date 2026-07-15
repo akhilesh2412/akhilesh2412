@@ -25,12 +25,6 @@
 
 <br/>
 
----
-
-<br/>
-
-## 👋 About Me
-
 <div align="center">
 
 **Akhilesh Verma** — Android Developer from India
