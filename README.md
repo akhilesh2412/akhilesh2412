@@ -1,7 +1,7 @@
 <!-- README.md for @akhilesh2412 – all links verified and fixed -->
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Akhilesh%20Kumar%20Verma&fontAlign=50&fontAlignY=36&fontSize=46&fontColor=ffffff&animation=fadeIn&desc=Android%20Developer%20%7C%20Kotlin%20%7C%20Jetpack%20Compose&descAlign=50&descAlignY=58&descSize=16"
+    src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Akhilesh%20Kumar%20Verma&fontAlign=50&fontAlignY=36&fontSize=46&fontColor=ffffff&animation=fadeIn&desc=Android%20Developer%20%7C%20Kotlin%20%7C%20Jetpack%20Compose&descAlign=44&descAlignY=58&descSize=16"
     width="100%"
     alt="Akhilesh Kumar Verma Banner"
   />
