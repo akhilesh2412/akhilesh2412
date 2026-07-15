@@ -146,27 +146,6 @@ Building modern mobile experiences with Kotlin, Jetpack Compose & Firebase
 </div>
 
 <br/>
-
----
-
-<br/>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="60%" alt="Quote" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" width="50%" alt="Joke" />
-</div>
-
-<br/>
-
----
-
-<br/>
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=akhilesh2412.akhilesh2412&left_color=1f2937&right_color=3b82f6&left_text=Visitors" alt="Visitor Count" />
 </div>
