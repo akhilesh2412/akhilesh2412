@@ -104,19 +104,8 @@ Building modern mobile experiences with Kotlin, Jetpack Compose & Firebase
 </p>
 
 </div>
-
 <br/>
-
 ---
-<br/>
-
----
-
-<br/>
-
-
----
-
 <br/>
 
 ## 🐍 Contribution
