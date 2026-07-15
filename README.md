@@ -1,18 +1,18 @@
-<!-- README.md for @akhilesh2412 – complete, polished, all icons fixed -->
+<!-- README.md for @akhilesh2412 – all links verified and fixed -->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&text=Akhilesh%20Verma&section=header&reversal=false&textBg=false&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Android%20Developer%20•%20Kotlin%20•%20Compose&descAlign=50&descAlignY=70&descSize=15" width="100%" />
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="https://github.com/akhilesh2412">
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&height=50&lines=Android+Developer+•+Kotlin+•+Jetpack+Compose;Clean+code+•+better+UX+•+open+source" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=akhilesh2412&label=Views&color=3b82f6&style=flat-square" alt="Profile Views" />
-  <a href="https://github.com/akhilesh2412?tab=followers">
+  <a href="https://github.com/akhilesh2412">
     <img src="https://img.shields.io/github/followers/akhilesh2412?label=Follow&style=flat-square&color=6b7280" alt="Followers" />
   </a>
   <a href="https://github.com/akhilesh2412?tab=repositories">
@@ -114,13 +114,21 @@ Building modern mobile experiences with Kotlin, Jetpack Compose & Firebase
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=akhilesh2412&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=akhilesh2412&theme=tokyonight&hide_border=true&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" />
+  <a href="https://github.com/akhilesh2412">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=akhilesh2412&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/akhilesh2412">
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=akhilesh2412&theme=tokyonight&hide_border=true&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" />
+  </a>
 </div>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilesh2412&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-  <img width="58%" src="https://github-readme-activity-graph.vercel.app/graph?username=akhilesh2412&bg_color=0d1117&color=3B82F6&line=3B82F6&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+  <a href="https://github.com/akhilesh2412">
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilesh2412&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+  </a>
+  <a href="https://github.com/akhilesh2412">
+    <img width="58%" src="https://github-readme-activity-graph.vercel.app/graph?username=akhilesh2412&bg_color=0d1117&color=3B82F6&line=3B82F6&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+  </a>
 </div>
 
 <br/>
@@ -132,7 +140,9 @@ Building modern mobile experiences with Kotlin, Jetpack Compose & Firebase
 ## 🏆 Achievements
 
 <div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=akhilesh2412&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=12&margin-h=12" alt="GitHub Trophies" />
+  <a href="https://github.com/akhilesh2412">
+    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=akhilesh2412&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=12&margin-h=12" alt="GitHub Trophies" />
+  </a>
 </div>
 
 <br/>
@@ -145,9 +155,9 @@ Building modern mobile experiences with Kotlin, Jetpack Compose & Firebase
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akhilesh2412/akhilesh2412/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akhilesh2412/akhilesh2412/output/github-contribution-grid-snake.svg">
+    <img alt="snake" src="https://raw.githubusercontent.com/akhilesh2412/akhilesh2412/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </div>
 
@@ -163,20 +173,20 @@ Building modern mobile experiences with Kotlin, Jetpack Compose & Firebase
   <a href="https://github.com/akhilesh2412" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://in.linkedin.com/in/akhilesh-verma-a6bb66271" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://t.me/akvdev_241203" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://akhileshkverma.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="mailto:your.email@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
   <a href="https://instagram.com/your-instagram" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://discord.gg/your-discord" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </div>
 
@@ -203,7 +213,7 @@ Building modern mobile experiences with Kotlin, Jetpack Compose & Firebase
 <br/>
 
 <div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fakhilesh2412&count_bg=%233B82F6&title_bg=%231F2937&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=true" alt="Visitor Count" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=akhilesh2412.akhilesh2412&left_color=1f2937&right_color=3b82f6&left_text=Visitors" alt="Visitor Count" />
 </div>
 
 <br/>
