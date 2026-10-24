@@ -1,4 +1,5 @@
-<!-- README.md for @akhilesh2412 – all links verified and fixed -->
+<!-- Profile README for @akhilesh2412 — redesign only; all data, links and badges unchanged -->
+
 <div align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Akhilesh%20Kumar%20Verma&fontAlign=50&fontAlignY=36&fontSize=46&fontColor=ffffff&animation=fadeIn&desc=Android%20Developer%20%7C%20Kotlin%20%7C%20Jetpack%20Compose&descAlign=50&descAlignY=52&descSize=16"
@@ -23,39 +24,35 @@
   </a>
 </div>
 
-<br/>
-
 <div align="center">
 
-**Akhilesh Verma** — Android Developer from India
+### Akhilesh Verma — Android Developer from India
 
 Building modern mobile experiences with Kotlin, Jetpack Compose & Firebase
 
 </div>
 
-<br/>
+---
+
+### About
 
 <div align="center">
 
-| 🚀 Building | 💡 Learning | 🎯 Goal |
-|:-----------:|:-----------:|:-------:|
+| Building | Learning | Goal |
+|:---:|:---:|:---:|
 | Android Apps | TypeScript | Open Source |
 | React Web | System Design | Full Stack |
 | Firebase | Node.js | Better UX |
 
 </div>
 
-<br/>
-
 ---
 
-<br/>
-
-## ⚡ Tech Stack
+### Tech Stack
 
 <div align="center">
 
-**📱 Mobile**
+**Mobile**
 
 <p>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
@@ -66,7 +63,7 @@ Building modern mobile experiences with Kotlin, Jetpack Compose & Firebase
   <img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white" alt="XML" />
 </p>
 
-**🌐 Web**
+**Web**
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -78,7 +75,7 @@ Building modern mobile experiences with Kotlin, Jetpack Compose & Firebase
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
 
-**☁️ Cloud & Backend**
+**Cloud & Backend**
 
 <p>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
@@ -90,7 +87,7 @@ Building modern mobile experiences with Kotlin, Jetpack Compose & Firebase
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
 </p>
 
-**🎨 Design & Tools**
+**Design & Tools**
 
 <p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
@@ -101,9 +98,10 @@ Building modern mobile experiences with Kotlin, Jetpack Compose & Firebase
 </p>
 
 </div>
-<br/>
 
-## 🐍 Contribution
+---
+
+### Contribution
 
 <div align="center">
   <picture>
@@ -113,13 +111,9 @@ Building modern mobile experiences with Kotlin, Jetpack Compose & Firebase
   </picture>
 </div>
 
-<br/>
-
 ---
 
-<br/>
-
-## 🔗 Connect
+### Connect
 
 <div align="center">
   <a href="https://github.com/akhilesh2412" target="_blank">
@@ -142,12 +136,9 @@ Building modern mobile experiences with Kotlin, Jetpack Compose & Firebase
   </a>
 </div>
 
-<br/>
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=akhilesh2412.akhilesh2412&left_color=1f2937&right_color=3b82f6&left_text=Visitors" alt="Visitor Count" />
 </div>
-
-<br/>
 
 <div align="center">
   <img
